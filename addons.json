@@ -1,17 +1,7 @@
 [
   {
-    "name": "Timeline",
-    "version": "1.1.0",
-    "url": "https://github.com/jules-gd-dev/EdgeLand/raw/main/addons/Timeline.zip"
-  },
-  {
-    "name": "Faq",
+    "name": "PricingTable",
     "version": "1.0.0",
-    "url": "https://github.com/jules-gd-dev/EdgeLand/raw/main/addons/Faq.zip"
-  },
-  {
-    "name": "CallToAction",
-    "version": "1.2.0",
-    "url": "https://github.com/jules-gd-dev/EdgeLand/raw/main/addons/CallToAction.zip"
+    "url": "https://github.com/jules-gd-dev/EdgeLand-addons/raw/refs/heads/main/addons/PricingTable.zip"
   }
 ]
