@@ -3,5 +3,50 @@
     "name": "PricingTable",
     "version": "1.0.0",
     "url": "https://github.com/jules-gd-dev/EdgeLand-addons/raw/refs/heads/main/addons/PricingTable.zip"
+  },
+  {
+    "name": "CallToAction",
+    "version": "1.0.0",
+    "url": "https://github.com/jules-gd-dev/EdgeLand-addons/raw/refs/heads/main/addons/CallToAction.zip"
+  },
+  {
+    "name": "CardGrid",
+    "version": "1.0.0",
+    "url": "https://github.com/jules-gd-dev/EdgeLand-addons/raw/refs/heads/main/addons/CardGrid.zip"
+  },
+  {
+    "name": "Diagram",
+    "version": "1.0.0",
+    "url": "https://github.com/jules-gd-dev/EdgeLand-addons/raw/refs/heads/main/addons/Diagram.zip"
+  },
+  {
+    "name": "Faq",
+    "version": "1.0.0",
+    "url": "https://github.com/jules-gd-dev/EdgeLand-addons/raw/refs/heads/main/addons/Faq.zip"
+  },
+  {
+    "name": "HeroSection",
+    "version": "1.0.0",
+    "url": "https://github.com/jules-gd-dev/EdgeLand-addons/raw/refs/heads/main/addons/HeroSection.zip"
+  },
+  {
+    "name": "Image",
+    "version": "1.0.0",
+    "url": "https://github.com/jules-gd-dev/EdgeLand-addons/raw/refs/heads/main/addons/Image.zip"
+  },
+  {
+    "name": "MarkdownText",
+    "version": "1.0.0",
+    "url": "https://github.com/jules-gd-dev/EdgeLand-addons/raw/refs/heads/main/addons/MarkdownText.zip"
+  },
+  {
+    "name": "Timeline",
+    "version": "1.0.0",
+    "url": "https://github.com/jules-gd-dev/EdgeLand-addons/raw/refs/heads/main/addons/Timeline.zip"
+  },
+  {
+    "name": "TwoColumns",
+    "version": "1.0.0",
+    "url": "https://github.com/jules-gd-dev/EdgeLand-addons/raw/refs/heads/main/addons/TwoColumns.zip"
   }
 ]
